@@ -4,7 +4,7 @@
  * Copyright (c) 2014
  */
 
-var toArray = require('utl/toArray');
+var toArray = require('utl.js/dist/common/toArray');
 
 
 /* -----------------------------------------------------------------------------

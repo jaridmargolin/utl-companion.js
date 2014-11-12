@@ -4,7 +4,7 @@
  * Copyright (c) 2014
  */
 
-var isFunction = require('utl/isFunction');
+var isFunction = require('utl.js/dist/common/isFunction');
 
 
 /* -----------------------------------------------------------------------------

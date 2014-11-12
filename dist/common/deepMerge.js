@@ -4,8 +4,8 @@
  * Copyright (c) 2014
  */
 
-var isArray = require('utl/isArray');
-var isObject = require('utl/isObject');
+var isArray = require('utl.js/dist/common/isArray');
+var isObject = require('utl.js/dist/common/isObject');
 
 
 /* -----------------------------------------------------------------------------
